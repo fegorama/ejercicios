@@ -52,7 +52,7 @@ Mkfile.old
 dkms.conf
 
 # Other directories and files
-/output
-/.hypothesis
-/.vscode
+**/output
+**/.hypothesis
+**/.vscode
 
