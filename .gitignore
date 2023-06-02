@@ -53,3 +53,6 @@ dkms.conf
 
 # Other directories and files
 /output
+/.hypothesis
+/.vscode
+
